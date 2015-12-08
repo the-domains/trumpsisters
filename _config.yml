@@ -1,0 +1,28 @@
+name: TrumpSisters
+favicon: null
+layout_spectrum: 0.17378989420831203
+typography_spectrum: 0.719615048263222
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.3813406869303435
+  lightness: 0.28753845067694783
+  saturation: 0.26300081377848983
+  rhythmicContrast: 0.8881024548318237
+purpose: []
