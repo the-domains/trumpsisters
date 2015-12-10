@@ -1,7 +1,7 @@
 name: TrumpSisters
 favicon: null
-layout_spectrum: 0.17378989420831203
-typography_spectrum: 0.719615048263222
+layout_spectrum: 1
+typography_spectrum: 0.26313
 cta:
   domain: null
   bucket: null
